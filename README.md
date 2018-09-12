@@ -22,7 +22,7 @@ Customer Requirements
 - provide change for overpayment using only dimes and nickels (assume machine won't run out)
 - allow user to abort the transaction by pressing coin return (R or r). Refund using only dimes and nickels using the fewest number of coins. 
 - continually prompt for additional sales -- do not exit the program
-- control flow of your program must match example sequence
+- control flow of your program must match example sequence <br />
 <br />
 Example sequence (not exhaustive testing): <br />
 $ pop <br />
