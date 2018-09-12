@@ -9,7 +9,7 @@ command line argument is missing
 - prices out of range
 - price not a multiple of 5
 - with a valid selling price, put machine in-service for continual sales (See Customer Requirements)
-- as a maintenance action (hidden from menu), allow service person to shutdown (exit) the program altogether at the coin prompt by pressing E or e; refund any pending amount <br />
+- as a maintenance action (hidden from menu), allow service person to shutdown (exit) the program altogether at the coin prompt by pressing E or e; refund any pending amount
 <br />
 Customer Requirements
 <br />
