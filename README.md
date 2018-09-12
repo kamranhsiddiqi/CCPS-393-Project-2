@@ -11,7 +11,8 @@ command line argument is missing
 - with a valid selling price, put machine in-service for continual sales (See Customer Requirements)
 - as a maintenance action (hidden from menu), allow service person to shutdown (exit) the program altogether at the coin prompt by pressing E or e; refund any pending amount <br />
 <br />
-Customer Requirements <br />
+Customer Requirements
+<br />
 - First assume that there is only one flavour of pop, and that the machine won't run out of pop (no need to track inventory or total sales)
 - display a welcome message stating the pop price, and what coins and commands are accepted
 - prompt the user to insert coins (via keyboard entry)
