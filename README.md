@@ -1,14 +1,14 @@
 # CCPS-393-Project-2
 
 Write a C program called "pop" which simulates the operation of a soft drink vending machine. Your program should meet the following requirements.  The user running the program will simulate both service and customer actions. <br />
-Service/Maintenance Requirements
+Service/Maintenance Requirements <br />
 - set the selling price (range 30ï¿½ to $1.05) from a command line argument (cents only)
 - provide a specific message (as in sample below) for the following error cases and return to the operating system: 
 command line argument is missing
 - prices out of range
 - price not a multiple of 5
 - with a valid selling price, put machine in-service for continual sales (See Customer Requirements)
-- as a maintenance action (hidden from menu), allow service person to shutdown (exit) the program altogether at the coin prompt by pressing E or e; refund any pending amount
+- as a maintenance action (hidden from menu), allow service person to shutdown (exit) the program altogether at the coin prompt by pressing E or e; refund any pending amount <br />
 Customer Requirements
 - First assume that there is only one flavour of pop, and that the machine won't run out of pop (no need to track inventory or total sales)
 - display a welcome message stating the pop price, and what coins and commands are accepted
